@@ -1,0 +1,9 @@
+
+# HTTP POST
+
+# kashasha
+popularname="Velho Barreiro"&realname="Velho Barreiro"&manufacturer="Fergara"&cityname="Monte Siao"
+
+# kashasheiro
+nickname="Fergara"&fullname="Fernando"&email="fergara@bn.com.br"&age=31
+
